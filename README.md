@@ -4,6 +4,6 @@
 
 **Objetivo** <br> Mi objetivo en este proyecto es demostrar cómo la Programación Orientada a Objetos puede elevar la calidad y la eficiencia en el desarrollo de videojuegos. A través de la creación de personajes, objetos y mecánicas de juego como clases y objetos en C#, Mostraré cómo la POO permite una organización estructurada y modular del código, facilitando la expansión y el mantenimiento del juego en el futuro. <br> 
 
-**Herramientas y Tecnologías** <br> *Lenguaje de Programación:* C# <br>*Control de Versiones:* GitHub
+**Herramientas y Tecnologías** <br> *Lenguaje de Programación:* C#<br>*Control de Versiones:* GitHub
 
 
